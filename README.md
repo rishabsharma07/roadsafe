@@ -264,18 +264,6 @@ Returns location-wise risk information.
 
 ---
 
-# 🎯 Future Improvements
-
-- User Authentication
-- Historical Accident Dataset Expansion
-- Deep Learning Models
-- Real-Time Traffic API Integration
-- Deployment on Cloud
-- Mobile Application
-- Dynamic Heatmap Generation
-- Multi-City Risk Monitoring
-
----
 
 # 👨‍💻 Author
 
